@@ -7,7 +7,7 @@
 
 ## Interfacce 
 
-<img align="center" width="100%" src="/title.png" alt="logo for XARET" />
+<img align="center" width="10%" src="/title.png" alt="logo for XARET" />
 <br>
 
 ## Deployment
