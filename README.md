@@ -7,7 +7,7 @@
 
 ## Interfacce 
 
-<img align="center" width="10%" src="/title.png" alt="logo for XARET" />
+<img align="center" width="10%" src="/assets/title.png" alt="logo for XARET" />
 <br>
 
 ## Deployment
@@ -26,4 +26,4 @@ You can connect with me on social media (
 <a href="https://twitter.com/xaret_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="xaret_" height="15" width="15" /></a>
 <a href="https://linkedin.com/in/mohitmaithani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mohitmaithani" height="15" width="15" /></a>
 <a href="https://kaggle.com/mohitmaithani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="mohitmaithani" height="15" width="15" /></a>
-<a href="https://instagram.com/aee_nobody" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aee_nobody" height="15" width="15" /></a>).
+<a href="https://instagram.com/aee_nobody" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aee_nobody" height="15" width="15" /></a> ).
