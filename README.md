@@ -1,3 +1,5 @@
+# heroku don't support high end projects which required more gpu resources so this project is not live.
+
 # XARET a unified Chatbot hosted on Flask 
 
 [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="20"> ](https://www.linkedin.com/in/mohitmaithani/)
